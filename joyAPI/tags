@@ -1,0 +1,31 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+JS_EVENT_AXIS	joystick.hh	20;"	d
+JS_EVENT_BUTTON	joystick.hh	19;"	d
+JS_EVENT_INIT	joystick.hh	21;"	d
+Joystick	joystick.cc	/^Joystick::Joystick()$/;"	f	class:Joystick
+Joystick	joystick.cc	/^Joystick::Joystick(int joystickNumber)$/;"	f	class:Joystick
+Joystick	joystick.cc	/^Joystick::Joystick(std::string devicePath)$/;"	f	class:Joystick
+Joystick	joystick.hh	/^class Joystick$/;"	c
+JoystickEvent	joystick.hh	/^class JoystickEvent$/;"	c
+MAX_AXES_VALUE	joystick.hh	/^  static const short MAX_AXES_VALUE = 32767;$/;"	m	class:JoystickEvent
+MIN_AXES_VALUE	joystick.hh	/^  static const short MIN_AXES_VALUE = -32768;$/;"	m	class:JoystickEvent
+__JOYSTICK_HH__	joystick.hh	15;"	d
+_fd	joystick.hh	/^  int _fd;$/;"	m	class:Joystick
+isAxis	joystick.hh	/^  bool isAxis()$/;"	f	class:JoystickEvent
+isButton	joystick.hh	/^  bool isButton()$/;"	f	class:JoystickEvent
+isFound	joystick.cc	/^bool Joystick::isFound()$/;"	f	class:Joystick
+isInitialState	joystick.hh	/^  bool isInitialState()$/;"	f	class:JoystickEvent
+main	example.cpp	/^int main ()$/;"	f
+main	test.cc	/^int main(int argc, char** argv)$/;"	f
+number	joystick.hh	/^  unsigned char number;$/;"	m	class:JoystickEvent
+openPath	joystick.cc	/^void Joystick::openPath(std::string devicePath)$/;"	f	class:Joystick
+sample	joystick.cc	/^bool Joystick::sample(JoystickEvent* event)$/;"	f	class:Joystick
+time	joystick.hh	/^  unsigned int time;$/;"	m	class:JoystickEvent
+type	joystick.hh	/^  unsigned char type;$/;"	m	class:JoystickEvent
+value	joystick.hh	/^  short value;$/;"	m	class:JoystickEvent
+~Joystick	joystick.cc	/^Joystick::~Joystick()$/;"	f	class:Joystick

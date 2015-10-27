@@ -1,1 +1,0 @@
-/usr/bin/c++      CMakeFiles/wow.dir/client.cpp.o  -o bin/wow -rdynamic libtcpstuff.a 
