@@ -1,0 +1,2 @@
+/home/guilherme/projects/psxPlugin/tcp/src/bin/CMakeFiles/tcpstuff.dir
+/home/guilherme/projects/psxPlugin/tcp/src/bin/CMakeFiles/wow.dir

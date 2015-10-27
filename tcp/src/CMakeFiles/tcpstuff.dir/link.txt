@@ -1,0 +1,2 @@
+/usr/bin/ar cq libtcpstuff.a  CMakeFiles/tcpstuff.dir/tcpstream.cpp.o CMakeFiles/tcpstuff.dir/tcpconnector.cpp.o
+/usr/bin/ranlib libtcpstuff.a
